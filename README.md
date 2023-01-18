@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" align="center" height="200" width="" />
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" align="center" height="400" width="" />
 </div>  
   
-
-### <div align="center">👋 Hi, my name is Alexis and I'm Full Stack Developer</div>  
-  
+<br/> <br/> 
+### <div align="start">👋 Hi, my name is Alexis and I'm Full Stack Developer</div>  
+  <br/> <br/> 
 
 - 🌱 I recently finished the full stack developer degree Soy Henry.  
   
