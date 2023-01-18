@@ -7,11 +7,9 @@
   <br/> <br/> 
 
 - 🌱 I recently finished the full stack developer degree Soy Henry.  
-  
-
 - 🔭I am currently interested in starting to work in the IT industry.  
-
-- ✉️ Send me an [email](https://alexismena2690@gmail.com)  
+- ✉️ Send me an [email](mailto:alexismena2690@gmail.com)  
+-  💼 My [porfolio](https://alexisleonardomena.vercel.app)
 
 <br/>  
 
