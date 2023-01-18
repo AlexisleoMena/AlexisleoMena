@@ -11,7 +11,7 @@
 
 - 🔭I am currently interested in starting to work in the IT industry.  
 
-- ✉️ Send me an [email](alexismena2690@gmail.com)  
+- ✉️ Send me an [email](https://alexismena2690@gmail.com)  
 
 <br/>  
 
