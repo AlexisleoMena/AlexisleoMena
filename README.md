@@ -4,19 +4,33 @@
 
 <br/>
 
-<h2 style="color: #F2EB09; margin-bottom: 30px">My GitHub profile stats:</h2>
+<br/>
+<h2>Streak and Profile Stats:</h2>
+<br/>
 <div align="center">
+<table >
+    <tbody>
+        <tr>
+            <td rowspan=2 >
+              <img alt="AlexisleoMena's" src="https://github-readme-streak-stats.herokuapp.com?user=AlexisleoMena&theme=yellowdark&hide_border=true&card_width=420" height="200px" width="400px"/>
+            </td>
+            <td rowspan=4 align="center">
+              <img alt="AlexisleoMena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisleoMena&layout=donut-vertical&theme=highcontrast&border_color=0000" height="400px" />
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td rowspan=2 align="center">
+              <img alt="AlexisleoMena's" src="https://github-readme-stats.vercel.app/api?username=AlexisleoMena&theme=highcontrast&border_color=0000&count_private=true&card_width=420" height="200px" width="400px"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexisleoMena&theme=yellowdark&hide_border=true&border_radius=10px)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisleoMena&theme=highcontrast&border_color=0000&border_radius=10&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisleoMena&layout=donut-vertical&theme=highcontrast&border_color=0000&border_radius=10)](https://github.com/AlexisleoMena/github-readme-stats)
-
-<span style="grid-area: stats4; color: #F2EB09;">
+<span>
   <b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </span>
-</div>
 
 <br/>
 
