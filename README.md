@@ -8,7 +8,7 @@
 <h2>Streak and Profile Stats:</h2>
 <br/>
 <div align="center">
-<table >
+<table cellpadding="0" bgcolor="#0000">
     <tbody>
         <tr>
             <td rowspan=2 >
