@@ -1,67 +1,50 @@
-<div align="center">
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" align="center" height="400" width="" />
-</div>  
+<section>
+  <img src="./assets/images/2.png" alt="Banner" style="border-radius: 10px;">
+</section>
+
+<br/>
+
+<h2 style="color: #F2EB09; margin-bottom: 30px">My GitHub profile stats:</h2>
+
+<section style="border-radius: 10px; padding: 20px 30px; display: grid; justify-items: center; grid-template-areas:'stats1 stats1 stats3' 'stats2 stats2 stats3' 'stats4 stats4 stats4'; grid-gap: 10px; background-color: black">
+
+  <div style="grid-area: stats1;">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisleoMena&theme=highcontrast&border_color=0000&border_radius=10&count_private=true)
+  </div>
+
+  <div style="grid-area: stats2;">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexisleoMena&theme=yellowdark&hide_border=true&border_radius=10px)](https://git.io/streak-stats)
+
+  </div>
+
+  <div style="grid-area: stats3; display: flex; justify-content: center;align-content: center; ">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisleoMena&layout=donut-vertical&theme=highcontrast&border_color=0000&border_radius=10)](https://github.com/AlexisleoMena/github-readme-stats)
+
+  </div>
+
+  <span style="grid-area: stats4; color: #F2EB09;">
+    <b >Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </span>
   
-<br/> <br/> 
-### <div align="start">👋 Hi, my name is Alexis and I'm Full Stack Developer</div>  
-  <br/> <br/> 
+</section>
 
-- 🌱 I recently finished the full stack developer degree Soy Henry.  
-- 🔭I am currently interested in starting to work in the IT industry.  
-- ✉️ Send me an [email](mailto:alexismena2690@gmail.com)  
--  💼 My [porfolio](https://alexisleonardomena.vercel.app)
+<br/>
 
-<br/>  
+<h2 style="color: #F2EB09; margin-bottom: 30px">Technologies:</h2>
+<section style="display: flex; justify-content: center; padding: 15px 15px 0 15px; border-radius: 10px; background-color: black">
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,go,visualstudio,vscode,react,vite,redux,webpack,babel,bootstrap,tailwind,jest,angular,reactivex,materialui,nodejs,express,dotnet,docker,nginx,postgres,mongodb,html,css,git,postman,azure)](https://skillicons.dev)
+</section>
 
-## My Skill Set  
-<div align="center">  
+<br/>
 
-<table><tr><td valign="top" width="50%">
+<h2 style="color: #F2EB09; margin-bottom: 30px">Contact me:</h2>
 
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="50%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-
-
-
-</td></tr></table>  
-</div>
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/AlexisleoMena" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alexis-leonardo-mena" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alexis%20Leonardo%20Mena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexis-leonardo-mena/)](https://www.linkedin.com/in/alexis-leonardo-mena/)
+[![Gmail Badge](https://img.shields.io/badge/-alexismena2690@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexismena2690@gmail.com)](mailto:alexismena2690@gmail.com)
 </div>  
-  
