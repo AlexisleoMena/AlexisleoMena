@@ -5,7 +5,7 @@
 <br/>
 
 <br/>
-<h2>Streak and Profile Stats:</h2>
+<h2>Stats:</h2>
 <br/>
 <div align="center">
 <table cellpadding="0" bgcolor="#0000">
