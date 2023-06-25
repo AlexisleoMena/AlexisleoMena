@@ -12,10 +12,10 @@
     <tbody>
         <tr>
             <td rowspan=2 >
-              <img alt="AlexisleoMena's" src="https://github-readme-streak-stats.herokuapp.com?user=AlexisleoMena&theme=yellowdark&hide_border=true&card_width=420" height="200px" width="400px"/>
+              <img alt="AlexisleoMena's" src="https://github-readme-streak-stats.herokuapp.com?user=AlexisleoMena&theme=yellowdark&hide_border=true&hide_title=true&card_width=420" height="200px" width="400px"/>
             </td>
             <td rowspan=4 align="center">
-              <img alt="AlexisleoMena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisleoMena&layout=donut-vertical&theme=highcontrast&border_color=0000&langs_count=8&custom_title=Most%20Used%20Technologies" height="410px" />
+              <img alt="AlexisleoMena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisleoMena&layout=donut-vertical&theme=highcontrast&border_color=0000&langs_count=8&custom_title=MOST%20USED%20LANGUAGES" height="410px" />
             </td>
         </tr>
         <tr></tr>
