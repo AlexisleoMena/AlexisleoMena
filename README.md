@@ -15,7 +15,7 @@
               <img alt="AlexisleoMena's" src="https://github-readme-streak-stats.herokuapp.com?user=AlexisleoMena&theme=yellowdark&hide_border=true&card_width=420" height="200px" width="400px"/>
             </td>
             <td rowspan=4 align="center">
-              <img alt="AlexisleoMena's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexisleoMena&layout=donut-vertical&theme=highcontrast&border_color=0000&langs_count=8&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most%20Used%20Languages" height="410px" />
+              <img alt="AlexisleoMena's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexisleoMena&layout=donut-vertical&theme=highcontrast&border_color=0000&langs_count=12&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most%20Used%20Languages" height="410px" />
             </td>
         </tr>
         <tr></tr>
