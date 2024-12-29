@@ -33,40 +33,109 @@
 
 <h2 style="color: #F2EB09; margin-bottom: 30px">Technologies:</h2>
 <div align="center">
-[![Cpp](https://skillicons.dev/icons?i=cpp)](https://www.learncpp.com)  
-[![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/learn/csharp)  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)  
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/doc/)  
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/learn)  
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)  
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)  
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)  
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs)  
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)  
-[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)  
-[![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)  
-[![Babel](https://skillicons.dev/icons?i=babel)](https://babel.dev/)  
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)  
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)  
-[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)  
-[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)  
-[![RxJS](https://skillicons.dev/icons?i=reactivex)](https://rxjs.dev/)  
-[![Material UI](https://skillicons.dev/icons?i=materialui)](https://mui.com/)  
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)  
-[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)  
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/en-us/dotnet/)  
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/)  
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/docs/)  
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)  
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)  
-[![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/)  
-[![Azure](https://skillicons.dev/icons?i=azure)](https://learn.microsoft.com/en-us/azure/)  
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/getting-started/)  
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/docs)  
-</div>  
+  <a href="https://www.learncpp.com">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="Cpp" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/learn/csharp">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://go.dev/doc/">
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  </a>
+  <a href="https://www.rust-lang.org/learn">
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://nextjs.org/docs">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  </a>
+  <a href="https://webpack.js.org/">
+    <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" />
+  </a>
+  <a href="https://babel.dev/">
+    <img src="https://skillicons.dev/icons?i=babel" alt="Babel" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />
+  </a>
+  <a href="https://jestjs.io/">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  </a>
+  <a href="https://rxjs.dev/">
+    <img src="https://skillicons.dev/icons?i=reactivex" alt="RxJS" />
+  </a>
+  <a href="https://mui.com/">
+    <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  </a>
+  <a href="https://docs.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com/docs/">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://learning.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+  </a>
+  <a href="https://aws.amazon.com/getting-started/">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  </a>
+  <a href="https://cloud.google.com/docs">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+  </a>
+</div> 
 
 <br/>
 
