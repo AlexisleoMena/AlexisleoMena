@@ -45,12 +45,6 @@
   <a href="https://www.typescriptlang.org/docs/">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
   </a>
-  <a href="https://go.dev/doc/">
-    <img src="https://skillicons.dev/icons?i=go" alt="Go" />
-  </a>
-  <a href="https://www.rust-lang.org/learn">
-    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-  </a>
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
   </a>
