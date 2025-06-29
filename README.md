@@ -21,7 +21,7 @@
         <tr></tr>
         <tr>
             <td rowspan=2 align="center">
-              <img alt="AlexisleoMena's" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexisleoMena&theme=highcontrast&border_color=0000&count_private=true&custom_title=Alexisleo's%20GitHub%20Stats&card_width=420" height="200px" width="400px"/>
+              <img alt="AlexisleoMena's" src="https://github-readme-stats.vercel.app/api?username=AlexisleoMena&theme=highcontrast&border_color=0000&count_private=true&custom_title=Alexisleo's%20GitHub%20Stats&card_width=420" height="200px" width="400px"/>
             </td>
         </tr>
     </tbody>
